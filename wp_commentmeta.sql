@@ -8,3 +8,4 @@ CREATE TABLE `wp_commentmeta` (
   KEY `meta_key` (`meta_key`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8
 jkhjkjhkhk
+asdfasfasdfsafs
