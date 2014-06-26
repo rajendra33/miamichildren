@@ -9,3 +9,4 @@ CREATE TABLE `wp_commentmeta` (
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8
 jkhjkjhkhk
 asdfasfasdfsafs
+this is sattar line.
