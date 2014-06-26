@@ -7,8 +7,10 @@ CREATE TABLE `wp_commentmeta` (
   KEY `comment_id` (`comment_id`),
   KEY `meta_key` (`meta_key`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8
+
 jkhjkjhkhk
 asdfasfasdfsafs
 this is sattar line.
 this is rajendra line
 asdfasfasdfsafs
+jkhjkjhkhk
